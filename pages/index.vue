@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-screen">
+    <div class="min-h-screen h-max">
         <Nav/>
         <main>
             <section class="lg:px-[15%] px-[5%] pt-20">
@@ -14,23 +14,24 @@
 					Star Strike
 				</h1>
 			</section>
-            <section class="lg:px-[15%] px-[5%] lg:pt-20 pt-14">
+            <section class="lg:px-[15%] px-[5%]">
 				<p
-					class="text-center uppercase font-medium tracking-wider mb-10 text-gray-400">
+					class="text-center uppercase font-medium tracking-wider mb-10 text-gray-400 lg:pt-20 pt-14">
 					About
 				</p>
 				<p class="text-lg font-semibold">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit natus reiciendis ipsam consequatur impedit modi, tenetur culpa repellat, laborum ducimus, laudantium dolorem enim perspiciatis? Aspernatur illo magnam similique rerum quisquam atque vero sapiente impedit repudiandae. Quae deleniti quam, accusantium, exercitationem aut enim earum ullam iure suscipit distinctio sapiente. Magni, provident. Obcaecati aspernatur esse iusto dolorum amet harum mollitia quis sunt dolore laborum quidem suscipit enim, dicta nemo nostrum perferendis cupiditate quam adipisci perspiciatis tempore laudantium expedita ratione debitis rerum! Doloribus vitae adipisci nobis rerum aspernatur veritatis soluta! Odio iure maxime deserunt itaque aperiam dolore consectetur, quaerat asperiores nihil? Veniam necessitatibus temporibus esse recusandae dolorum mollitia natus quae voluptas, ab ducimus quos sequi perferendis distinctio rerum similique culpa ex eveniet repellendus officia! Aliquam soluta distinctio ipsa voluptatum accusamus, perferendis blanditiis possimus, dolor incidunt doloremque ducimus non sunt pariatur nisi. Corporis in aspernatur consectetur! Sed inventore officia aperiam nulla cumque eos unde nostrum quaerat labore numquam enim placeat, earum neque vitae consectetur itaque vel corrupti, aliquid dolor odit doloremque sit possimus modi saepe. Cumque obcaecati impedit quidem nulla voluptates molestiae, sunt labore? Delectus sunt praesentium quae, officiis tempora vero quisquam ratione fugiat. Earum magnam assumenda expedita perferendis delectus, fugit error alias soluta.
+					Star Strike is an upcoming (actively in-development) spaceship combat game. It aims to be a competitive experience where skill differientiates the good pilots from the bad ones, and where there is no grind/engineering (I have gone through the pain too) required. Depending on the success of the online multiplayer mode, there will also be a story mode released at a later date.
 				</p>
 				<p
-					class="text-center uppercase font-medium tracking-wider mb-10 text-gray-400">
+					class="text-center uppercase font-medium tracking-wider mb-10 text-gray-400 lg:pt-20 pt-14">
 					Pricing
 				</p>
 				<p class="text-lg font-semibold">
-					Star Strike is, and will ever be free forever with no ADS! Even though I will be gaining no money at all for this (donations are accepted, see footer), I think it is the best choice for both me and the community.
+					Star Strike is, and will ever be free forever with no ADS! Even though I will be gaining no money at all for this (donations are accepted, see footer), I think it is the best choice for both me and the community, since that makes the game accesible to everyone that wants to play it!
 				</p>
 			</section>
         </main>
+		<Footer/>
     </div>
 </template>
 

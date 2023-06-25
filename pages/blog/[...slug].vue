@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="min-h-full">
         <Nav/>
         <main>
             <article class="lg:pt-20 pt-10 relative flex items-start lg:space-x-10 px-[5%] lg:px-[10%]">
