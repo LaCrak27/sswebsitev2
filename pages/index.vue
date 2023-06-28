@@ -27,7 +27,7 @@
 					Pricing
 				</p>
 				<p class="text-lg font-semibold">
-					Star Strike is, and will ever be free forever with no ADS! Even though I will be gaining no money at all for this (donations are accepted, see footer), I think it is the best choice for both me and the community, since that makes the game accesible to everyone that wants to play it!
+					Star Strike is, and will ever be free forever with no ADS! Even though I will be gaining no money at all for this (<a href="https://www.buymeacoffee.com/lacrak27">buy me a coffee!</a>), I think it is the best choice for both me and the community, since that makes the game accesible to everyone that wants to play it!
 				</p>
 			</section>
         </main>
