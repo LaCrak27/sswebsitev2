@@ -1,5 +1,6 @@
 <template>
   <head>
+    <link rel="icon" href="https://cdn.discordapp.com/attachments/1066709125184102449/1108122330745544714/StarStrikeLogo.png">
     <meta content="Star Strike" property="og:title" />
     <meta content="Star strike is an upcoming indie space game, which will contain a competitive multiplayer mode, as well as a single player story." property="og:description" />
     <meta content="https://www.starstrikegame.com" property="og:url" />
