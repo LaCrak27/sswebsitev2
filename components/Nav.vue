@@ -1,6 +1,6 @@
 <template>
-	<header class="flex items-center justify-between h-20 px-[5%] lg:px-[15%]">
-		<NuxtLink to="/" class="font-bold text-2xl lg:text-4xl">
+	<header class="flex items-center justify-center sm:justify-between h-20 px-[5%] lg:px-[15%]">
+		<NuxtLink to="/" class="hidden sm:block	 font-bold text-2xl lg:text-4xl">
 			<span class="text-normal">S</span>tar <span class="text-normal">S</span>trike
 		</NuxtLink>
 		<nav class="flex items-center space-x-7 text-gray-600">
@@ -34,6 +34,11 @@
 			name: "Blog",
 			icon: "carbon:blog",
 			link: "/blog",
+		},
+		{
+			name: "Status",
+			icon: "heroicons-outline:status-online",
+			link: "/status",
 		},
 		{
 			name: "Download",
